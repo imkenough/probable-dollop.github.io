@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header,
+  main,
+  footer {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  h1,
+  h2 {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin: 20px 0;
+    padding-left: 40px;
+  }
+  
+  img {
+    max-width: 50px;
+    height: auto;
+    margin: 10px 0;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+  }
